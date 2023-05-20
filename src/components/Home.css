@@ -1,0 +1,38 @@
+.header--h1{
+    color:black;
+    font-size: 18px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    margin: 5px;
+    padding: 10px;
+}
+.header--header{
+    position: absolute;
+    left: 27px;
+    width:1050px;
+    margin:5px;
+    justify-content:center;
+    /* border-bottom: 0.5px solid rgb(180, 177, 177); */
+    /* height: 300px; */
+
+}
+.hse--div{
+    position: relative;
+    top:400px;
+    /* left:15%; */
+    /* right:15%; */
+    width: 100%;
+}
+.home--buttons:hover{
+  color:red;
+}
+.inputs{
+    width:100px;
+    border: none;
+}
+.inputs:focus{
+    border: none;
+}
+.view-condition{
+    position: relative;
+    top:400px;
+}

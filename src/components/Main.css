@@ -1,0 +1,39 @@
+.main--div{
+    height:max-content;
+    
+    margin-top:-100px;
+    width: 100%;
+}
+.carousel--1{
+    height:100vh;
+    background: fixed;
+    background-size: cover;
+    position: relative;
+    z-index: 0;
+
+
+}
+.head--h1{
+    text-align: left;
+    margin: 10px;
+    font-weight: 800px;
+    /* font-size: 32px; */
+}
+.head--h3{
+    text-align: left;
+    margin: 10px;
+    font-weight: 200px;
+
+}
+.item{
+    width:700px
+}
+.caption{
+    position: absolute;
+    /* bottom: 100; */
+    text-align: left;
+    top:290px;
+    left:70px;
+    width:400px;
+    bottom: 20px;
+}

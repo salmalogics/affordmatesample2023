@@ -1,0 +1,35 @@
+.why--div{
+    margin-top: 230px;
+    margin-left: 100px;
+    height:100vh;
+   
+}
+.head--h1why{
+    font-weight: 200px;
+    /* text-align: center; */
+    letter-spacing: 2px;
+    position: relative;
+    line-height: 80px;
+}
+.header--why5{
+    text-align: center;
+    width: 400px;
+    left:350px;
+    position: absolute;
+}
+.col--div{
+    position: absolute;
+    bottom: -590px;
+    justify-content: center;
+    line-height: 50px;
+    /* left:30px; */
+}   
+.div--g{
+    margin: 56px;
+}
+@media(min-width:408px) and (max-width:991px){
+    .carousel-item{
+        width:56%;
+    }
+
+}
